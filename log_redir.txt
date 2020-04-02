@@ -1,0 +1,41 @@
+exe is ./add_to_list,list is the_list,ticket order amount is 40,transatcions is transactions 
+you wanted 40 tickets
+ticket maximum is 20
+printing transaction history
+clocking time(0):1167962136
+lis now contains 20 entries
+exe is ./add_to_list,list is the_list,ticket order amount is 40,transatcions is transactions 
+you wanted 40 tickets
+ticket maximum is 20
+printing transaction history
+clocking time(0):1167962136
+1796700401 duplicate found at line 0
+1923949393 duplicate found at line 1
+780908704 duplicate found at line 2
+1183630490 duplicate found at line 3
+975098621 duplicate found at line 4
+1332799772 duplicate found at line 5
+1126481563 duplicate found at line 6
+1218005268 duplicate found at line 7
+86361696 duplicate found at line 8
+535358823 duplicate found at line 9
+1191045864 duplicate found at line 10
+1021723593 duplicate found at line 11
+1284797783 duplicate found at line 12
+1352215589 duplicate found at line 13
+565416668 duplicate found at line 14
+1157120520 duplicate found at line 15
+791897233 duplicate found at line 16
+1935577279 duplicate found at line 17
+2062682526 duplicate found at line 18
+790019332 duplicate found at line 19
+must re-issue 20 tickets due to replicas_found
+lis now contains 20 entries
+exe is ./add_to_list,list is the_list,ticket order amount is 40,transatcions is transactions 
+you wanted 40 tickets
+ticket maximum is 20
+printing transaction history
+clocking time(0):1167962147
+1796700401 duplicate found at line 0
+must re-issue 1 tickets due to replicas_found
+lis now contains 39 entries

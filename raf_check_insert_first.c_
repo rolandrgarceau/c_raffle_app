@@ -1,0 +1,23 @@
+// stop the generator from creating a file bigger than the hard drive!!!!!!
+//we also need to stop negative numbers...ARGH!
+int limit_ticket_sale(char *amount){
+	int ticket_amt = atoi(amount);//shrink it to limit 20 at a time		
+	printf("you wanted %d tickets\n", ticket_amt);
+	if (ticket_amt>20){
+		printf("ticket maximum is 20\n");
+		return 20;
+	}else{return ticket_amt;} 
+}
+//try to change the seed based off time() fcn...
+
+void rand_numb(FILE *fptr, unsigned int amt){
+	//set the seed and put the start time in the file
+	srand(time(0));
+	fprintf(fptr,"clocking time(0):%d\n", time(0));
+	fprintf(fptr,"amount to generate:%d\n",amt); 
+	unsigned int the_num = 0;
+	int i = 0;
+	for(i;i<amt;i++){
+		fprintf(fptr,"%d\n", rand());
+	}
+}

@@ -1,0 +1,416 @@
+exe is the_list,list is 6 ¸ş
+list contains 39 entries
+exe is ./select_winner,list is the_list
+list contains 39 entries
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list ran_num: 13 selected_line: -604331932
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1592335640 selected_line: 38
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 956623640 selected_line: 11
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1700028806 selected_line: 8
+select winner open was a success
+winning ticket #1062109251 returned from line 39
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1589493068 selected_line: 20
+select winner open was a success
+winning ticket #790019332 returned from line 20
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1563010635 selected_line: 30
+select winner open was a success
+winning ticket #2117448159 returned from line 30
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1705905553 selected_line: 1
+select winner open was a success
+winning ticket #1796700401 returned from line 1
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1874330423 selected_line: 17
+select winner open was a success
+winning ticket #791897233 returned from line 17
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 481286156 selected_line: 26
+select winner open was a success
+winning ticket #974397471 returned from line 26
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 481286156 selected_line: 26
+select winner open was a success
+winning ticket #974397471 returned from line 26
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1260883131 selected_line: 27
+select winner open was a success
+winning ticket #82125533 returned from line 27
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 2027370352 selected_line: 7
+select winner open was a success
+winning ticket #1126481563 returned from line 7
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 2027370352 selected_line: 7
+select winner open was a success
+winning ticket #1126481563 returned from line 7
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 1717696018 selected_line: 25
+select winner open was a success
+winning ticket #1918202875 returned from line 25
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 344589009 selected_line: 24
+select winner open was a success
+winning ticket #1020023831 returned from line 24
+exe is ./select_winner,list is the_list
+list contains 39 entries
+file: the_list num: 39 ran_num: 41427033 selected_line: 24
+select winner open was a success
+winning ticket #1020023831 returned from line 24
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #1923949393 returned from line 2
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #1284797783 returned from line 13
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #565416668 returned from line 15
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #565416668 returned from line 15
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #850432230 returned from line 37
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #1240240543 returned from line 31
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #1240240543 returned from line 31
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #1796700401 returned from line 1
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #790019332 returned from line 20
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select winner open was a success
+winning ticket #1799033930 returned from line 21
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select_winner did not return a proper value
+exe is ./select_winner,list is the_list
+list contains 39 entries
+select_winner did not return a proper value
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #535358823 returned from line 10
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #565416668 returned from line 15
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #82125533 returned from line 27
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #974397471 returned from line 26
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1796700401 returned from line 1
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1796700401 returned from line 1
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #850432230 returned from line 37
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #871986427 returned from line 22
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #975098621 returned from line 5
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #975098621 returned from line 5
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1191045864 returned from line 11
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1191045864 returned from line 11
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1890868466 returned from line 23
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1890868466 returned from line 23
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1890868466 returned from line 23
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1284797783 returned from line 13
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1284797783 returned from line 13
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1284797783 returned from line 13
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1284797783 returned from line 13
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1284797783 returned from line 13
+exe is ./select_winner,list is the_list
+list contains 39 entries
+winning ticket #1284797783 returned from line 13
+winning ticket #535358823 returned from line 10
+winning ticket #1183630490 returned from line 4
+winning ticket #1157120520 returned from line 16
+select_winner did not return a proper value
+select_winner did not return a proper value
+winning ticket #2062682526 returned from line 19
+winning ticket #82125533 returned from line 27
+winning ticket #82125533 returned from line 27
+winning ticket #1923949393 returned from line 2
+winning ticket #535358823 returned from line 10
+winning ticket #1021723593 returned from line 12
+winning ticket #1021723593 returned from line 12
+winning ticket #1887640639 returned from line 32
+winning ticket #1887640639 returned from line 32
+winning ticket #871986427 returned from line 22
+winning ticket #1218005268 returned from line 8
+winning ticket #1191045864 returned from line 11
+winning ticket #1191045864 returned from line 11
+winning ticket #975098621 returned from line 5
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #1923949393 returned from line 2
+winning ticket #1020023831 returned from line 24
+winning ticket #1020023831 returned from line 24
+winning ticket #2031713005 returned from line 35
+winning ticket #1923949393 returned from line 2
+winning ticket #1240240543 returned from line 31
+winning ticket #1861255682 returned from line 38
+winning ticket #1890868466 returned from line 23
+winning ticket #95140857 returned from line 33
+winning ticket #974397471 returned from line 26
+winning ticket #974397471 returned from line 26
+winning ticket #974397471 returned from line 26
+winning ticket #974397471 returned from line 26
+winning ticket #974397471 returned from line 26
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #2062682526 returned from line 19
+winning ticket #2062682526 returned from line 19
+winning ticket #2062682526 returned from line 19
+winning ticket #2062682526 returned from line 19
+winning ticket #2062682526 returned from line 19
+winning ticket #2062682526 returned from line 19
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #86361696 returned from line 9
+winning ticket #790019332 returned from line 20
+winning ticket #790019332 returned from line 20
+winning ticket #1020023831 returned from line 24
+winning ticket #974397471 returned from line 26
+winning ticket #1796700401 returned from line 1
+winning ticket #780908704 returned from line 3
+winning ticket #780908704 returned from line 3
+winning ticket #2062682526 returned from line 19
+winning ticket #2062682526 returned from line 19
+winning ticket #1240240543 returned from line 31
+winning ticket #1240240543 returned from line 31
+winning ticket #1240240543 returned from line 31
+winning ticket #565416668 returned from line 15
+winning ticket #565416668 returned from line 15
+winning ticket #535358823 returned from line 10
+winning ticket #535358823 returned from line 10
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #1020023831 returned from line 24
+winning ticket #1020023831 returned from line 24
+winning ticket #1352215589 returned from line 14
+winning ticket #1352215589 returned from line 14
+winning ticket #975098621 returned from line 5
+winning ticket #975098621 returned from line 5
+winning ticket #975098621 returned from line 5
+winning ticket #791897233 returned from line 17
+winning ticket #791897233 returned from line 17
+winning ticket #790019332 returned from line 20
+winning ticket #790019332 returned from line 20
+winning ticket #608674294 returned from line 28
+winning ticket #608674294 returned from line 28
+select_winner did not return a proper value
+line_converted: 32612 count: 39
+select_winner did not return a proper value
+line_converted: 32525 count: 39
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #1183630490 returned from line 4
+winning ticket #86361696 returned from line 9
+winning ticket #86361696 returned from line 9
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #2117448159 returned from line 30
+winning ticket #1796700401 returned from line 1
+winning ticket #1796700401 returned from line 1
+winning ticket #1799033930 returned from line 21
+winning ticket #1799033930 returned from line 21
+winning ticket #1799033930 returned from line 21
+winning ticket #235601774 returned from line 29
+winning ticket #235601774 returned from line 29
+winning ticket #535358823 returned from line 10
+winning ticket #535358823 returned from line 10
+winning ticket #535358823 returned from line 10
+winning ticket #1126481563 returned from line 7
+winning ticket #1126481563 returned from line 7
+winning ticket #1284797783 returned from line 13
+winning ticket #1284797783 returned from line 13
+winning ticket #1284797783 returned from line 13
+winning ticket #565416668 returned from line 15
+winning ticket #565416668 returned from line 15
+winning ticket #1986985273 returned from line 36
+winning ticket #1986985273 returned from line 36
+winning ticket #1986985273 returned from line 36
+winning ticket #1332799772 returned from line 6
+winning ticket #1332799772 returned from line 6
+winning ticket #2062682526 returned from line 19
+winning ticket #2062682526 returned from line 19
+winning ticket #1240240543 returned from line 31
+winning ticket #850432230 returned from line 37
+winning ticket #974397471 returned from line 26
+winning ticket #95140857 returned from line 33
+winning ticket #1157120520 returned from line 16
+winning ticket #708856544 returned from line 34
+winning ticket #2062682526 returned from line 18
+winning ticket #974397471 returned from line 25
+winning ticket #86361696 returned from line 8
+winning ticket #1284797783 returned from line 12
+winning ticket #1284797783 returned from line 12
+winning ticket #1284797783 returned from line 12
+winning ticket #1284797783 returned from line 12
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #1020023831 returned from line 23
+winning ticket #1020023831 returned from line 23
+winning ticket #1020023831 returned from line 23
+winning ticket #1020023831 returned from line 23
+winning ticket #1020023831 returned from line 23
+winning ticket #1020023831 returned from line 23
+winning ticket #975098621 returned from line 4
+winning ticket #975098621 returned from line 4
+winning ticket #975098621 returned from line 4
+winning ticket #975098621 returned from line 4
+winning ticket #975098621 returned from line 4
+winning ticket #975098621 returned from line 4
+winning ticket #975098621 returned from line 4
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1918202875 returned from line 24
+winning ticket #1918202875 returned from line 24
+winning ticket #1126481563 returned from line 6
+winning ticket #82125533 returned from line 26
+winning ticket #2062682526 returned from line 18
+winning ticket #1218005268 returned from line 7
+winning ticket #975098621 returned from line 4
+winning ticket #1218005268 returned from line 7
+winning ticket #1218005268 returned from line 7
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #1890868466 returned from line 22
+winning ticket #1890868466 returned from line 22
+winning ticket #1890868466 returned from line 22
+winning ticket #1890868466 returned from line 22
+winning ticket #1890868466 returned from line 22
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #86361696 returned from line 8
+winning ticket #974397471 returned from line 25
+winning ticket #974397471 returned from line 25
+winning ticket #974397471 returned from line 25
+winning ticket #974397471 returned from line 25
+winning ticket #974397471 returned from line 25
+winning ticket #974397471 returned from line 25
+winning ticket #1191045864 returned from line 10
+winning ticket #1191045864 returned from line 10
+winning ticket #1191045864 returned from line 10
+winning ticket #1191045864 returned from line 10
+winning ticket #1191045864 returned from line 10
+winning ticket #1191045864 returned from line 10
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #850432230 returned from line 36
+winning ticket #790019332 returned from line 19
+winning ticket #790019332 returned from line 19
+winning ticket #790019332 returned from line 19
+winning ticket #790019332 returned from line 19
+winning ticket #790019332 returned from line 19
+winning ticket #790019332 returned from line 19
+winning ticket #1352215589 returned from line 13
+winning ticket #1352215589 returned from line 13
+winning ticket #1352215589 returned from line 13
+winning ticket #1352215589 returned from line 13
+winning ticket #1352215589 returned from line 13
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #1861255682 returned from line 37
+winning ticket #708856544 returned from line 33
+winning ticket #708856544 returned from line 33
+winning ticket #708856544 returned from line 33
+winning ticket #708856544 returned from line 33
+winning ticket #708856544 returned from line 33
+winning ticket #708856544 returned from line 33
+winning ticket #1021723593 returned from line 11
+winning ticket #1021723593 returned from line 11
+winning ticket #1021723593 returned from line 11
+winning ticket #1935577279 returned from line 17

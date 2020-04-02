@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc raf_main.c file_helper_methods.c -o add_to_list && echo success!!! ||exit
+./add_to_list the_list 40 transactions >> log_redir.txt

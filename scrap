@@ -1,0 +1,22 @@
+if(test_count==0){
+			ran_num = 399056567;
+			test_count++;
+	    		int there = check_num(fptr,ran_num);
+			if(there >= 0){
+				printf("%d is there already on line %d\n",ran_num,there);
+				//we have to reroll the dice for one that is not there
+				//i--;//should issue a new one and not affect the overall order amt
+				replica_found++;
+			}
+			if(there < 0){
+				FILE *fp = fopen(fptr, "a+");
+				if(fp==NULL){
+					printf("EXITING-bad file append or insert\n");
+					exit(1);//might not wanna die just yet
+				}else{ 
+					printf("file open for appending new number was a success\n");
+					fprintf(fp,"%d\n", ran_num);
+					fclose(fp);
+				}	 			
+			}
+	    }else{

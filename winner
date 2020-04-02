@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc select_list.c -o select_winner && echo success!!! ||exit
+./select_winner the_list >> log_winner.txt
