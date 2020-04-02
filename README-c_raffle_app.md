@@ -1,4 +1,4 @@
-# Raffle
+# Raffle from a few years ago
 A simple solution to a bigger problem. This project creates a raffle to participate 
 in with randomly generated ticket numbers. There was a list of participants, and 
 upon completion of selecting a winner, an email or text should be generated to 
