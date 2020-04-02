@@ -15,7 +15,7 @@ The entry point to main is in raf_main.c. I am still looking for the Makefile, b
 ## Steps to modernize
 
 * Describe steps necessary to cmake and test with clang. 
-* Look into llvm, Docker, Openshift, K8's, pods, Jenkins, Ansible, or whatever micro-service style build to show knowledge of these technologies. 
+* Look into llvm, Docker, Openshift, K8's, pods, Jenkins, Ansible, Kafka, confluent build, or whatever micro-service solution to show knowledge of these technologies. 
 * Look at docker hub for other images I have for c_test.
 
 Still need to verify integrity of this application for MacOS after DR event.
